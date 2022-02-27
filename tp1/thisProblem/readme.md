@@ -1,0 +1,4 @@
+- 'this' inside a function (the function is attribute of an object) ==> 'this'=the object that calls the function
+- 'this' inside a normal function ==> 'this' is the global object
+- to change 'this' inside a function we use either call or apply
+- 'this' inside a file (directly) is the module.exports
